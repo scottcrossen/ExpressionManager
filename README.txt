@@ -16,7 +16,7 @@ NOTE:
 I have two repositories fullfilling the same requirements. This is the cleaner - and much simpler version.
 
 INSTRUCTIONS:
-- A test drive is supplied. This tests the code to verify that it passes the requirements.
+- A test driver is supplied. This tests the code to verify that it passes the requirements for the given assignment.
 
 CONTACT:
 Scott Leland Crossen	scottcrossen42@gmail.com	scottcrossen42.com
