@@ -1,6 +1,6 @@
 # Expression Manager
 
-A simple implementation of an expression manager
+A simple implementation of an expression manager to faciliate convereting between infix and postfix notation.
 
 ### Description
 
